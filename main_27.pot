@@ -1,0 +1,378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-24 09:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_27.cpp:2
+msgid "The match was stopped."
+msgstr ""
+
+#: main_27.cpp:3
+msgid "Would you like to save the match state to resume later?"
+msgstr ""
+
+#: main_27.cpp:4
+msgid "Save Engine Match"
+msgstr ""
+
+#: main_27.cpp:5
+msgid "Save current engine match state"
+msgstr ""
+
+#: main_27.cpp:6
+msgid "The tournament was stopped."
+msgstr ""
+
+#: main_27.cpp:7
+msgid "Would you like to save the schedule to resume later?"
+msgstr ""
+
+#: main_27.cpp:8
+msgid "Save Tournament Schedule"
+msgstr ""
+
+#: main_27.cpp:9 main_27.cpp:80
+msgid "Save tournament schedule"
+msgstr ""
+
+#: main_27.cpp:10
+msgid "Stop the current engine match"
+msgstr ""
+
+#: main_27.cpp:11
+msgid "Save the current engine match"
+msgstr ""
+
+#: main_27.cpp:12
+msgid "Match terminated"
+msgstr ""
+
+#: main_27.cpp:13
+msgid "Current engine match state saved successfully"
+msgstr ""
+
+#: main_27.cpp:14
+msgid "Cannot open save file, or write failed"
+msgstr ""
+
+#: main_27.cpp:15 main_27.cpp:67
+msgid "Resume engine match"
+msgstr ""
+
+#: main_27.cpp:16
+msgid "File read error"
+msgstr ""
+
+#: main_27.cpp:17
+msgid "Engine match state not loaded"
+msgstr ""
+
+#: main_27.cpp:18
+msgid "Save tournament progress"
+msgstr ""
+
+#: main_27.cpp:19
+msgid "Tournament schedule saved to"
+msgstr ""
+
+#: main_27.cpp:20
+msgid "Cannot open schedule file for saving"
+msgstr ""
+
+#: main_27.cpp:21
+msgid "Error writing schedule file"
+msgstr ""
+
+#: main_27.cpp:22
+msgid "Cannot open schedule file"
+msgstr ""
+
+#: main_27.cpp:23
+msgid "Tournament schedule not loaded"
+msgstr ""
+
+#: main_27.cpp:24
+msgid "Cannot open cross-table file for saving"
+msgstr ""
+
+#: main_27.cpp:25
+msgid "Tournament cross table saved to"
+msgstr ""
+
+#: main_27.cpp:26
+msgid "Error writing cross-table file"
+msgstr ""
+
+#: main_27.cpp:27
+msgid "Cannot open cross-table file"
+msgstr ""
+
+#: main_27.cpp:28
+msgid "Cross-table not loaded"
+msgstr ""
+
+#: main_27.cpp:29
+msgid "Tournament cross table (Loaded)"
+msgstr ""
+
+#: main_27.cpp:31
+msgid "Save cross table.."
+msgstr ""
+
+#: main_27.cpp:32
+msgid "Save tournament cross table"
+msgstr ""
+
+#: main_27.cpp:33
+msgid "Save the current engine tournament"
+msgstr ""
+
+#: main_27.cpp:35
+msgid "Check to confirm resignation in shootout mode."
+msgstr ""
+
+#: main_27.cpp:36
+msgid "Check to show a transient notification message"
+msgstr ""
+
+#: main_27.cpp:37
+msgid "for resignation in engine matches."
+msgstr ""
+
+#: main_27.cpp:38 main_27.cpp:99
+msgid "when it has a material deficit large enough to constitute a lost position."
+msgstr ""
+
+#: main_27.cpp:39
+msgid "Confirm in shootout  -  Check if you want to be prompted to confirm"
+msgstr ""
+
+#: main_27.cpp:40 main_27.cpp:108
+msgid "the engine resignation in shootout mode."
+msgstr ""
+
+#: main_27.cpp:41
+msgid "Show notification in engine matches  -  Check to show a transient notification box"
+msgstr ""
+
+#: main_27.cpp:42 main_27.cpp:112
+msgid "in engine versus engine matches.  This will not interrupt the play in the "tournament."
+msgstr ""
+
+#: main_27.cpp:43
+msgid "Nimzo_3d_ml (version 4.5) multi-lingual,"
+msgstr ""
+
+#: main_27.cpp:44
+msgid "Features added to Nimzo_3d - version 4.5"
+msgstr ""
+
+#: main_27.cpp:45
+msgid "Saving and loading of partially completed engine matches"
+msgstr ""
+
+#: main_27.cpp:46
+msgid "and tournaments (version 4.5)"
+msgstr ""
+
+#: main_27.cpp:47
+msgid "Engine 1 executable file path is empty"
+msgstr ""
+
+#: main_27.cpp:48
+msgid "Engine 1 executable file does not exist"
+msgstr ""
+
+#: main_27.cpp:49
+msgid "Engine 2 executable file path is empty"
+msgstr ""
+
+#: main_27.cpp:50
+msgid "Engine 2 executable file does not exist"
+msgstr ""
+
+#: main_27.cpp:51
+msgid "Engine resign options.."
+msgstr ""
+
+#: main_27.cpp:52
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns"
+msgstr ""
+
+#: main_27.cpp:53
+msgid "Number of consecutive turns below threshold"
+msgstr ""
+
+#: main_27.cpp:54
+msgid "that never reach higher search depths."
+msgstr ""
+
+#: main_27.cpp:55
+msgid "The automatic engine resignation option allows engines that have a losing position,"
+msgstr ""
+
+#: main_27.cpp:56
+msgid "Automatic engine resignation in a lost position (version 4.5)"
+msgstr ""
+
+#: main_27.cpp:58
+msgid "Save match settings.."
+msgstr ""
+
+#: main_27.cpp:59
+msgid "Load match settings.."
+msgstr ""
+
+#: main_27.cpp:61
+msgid "Save partial match.."
+msgstr ""
+
+#: main_27.cpp:62
+msgid "Resume match.."
+msgstr ""
+
+#: main_27.cpp:64
+msgid "Save engine match"
+msgstr ""
+
+#: main_27.cpp:65
+msgid "Save the current match state in a file (.mch)"
+msgstr ""
+
+#: main_27.cpp:68
+msgid "Resume a previously saved match from a file (.mch)"
+msgstr ""
+
+#: main_27.cpp:70
+msgid "Save the current, partially completed match state"
+msgstr ""
+
+#: main_27.cpp:71
+msgid "Resume a previously saved match"
+msgstr ""
+
+#: main_27.cpp:72
+msgid "Stop the current engine tournament"
+msgstr ""
+
+#: main_27.cpp:74
+msgid "Save tournament"
+msgstr ""
+
+#: main_27.cpp:75
+msgid "Save the current touranement settings to a file (.tmt)"
+msgstr ""
+
+#: main_27.cpp:77
+msgid "Load tournament"
+msgstr ""
+
+#: main_27.cpp:78
+msgid "Load the tournament settings from a file (.tmt)"
+msgstr ""
+
+#: main_27.cpp:81
+msgid "Save schedule"
+msgstr ""
+
+#: main_27.cpp:82
+msgid "Save the current tournament schedule to a file (*.nts)"
+msgstr ""
+
+#: main_27.cpp:84
+msgid "Load schedule"
+msgstr ""
+
+#: main_27.cpp:85
+msgid "Load a previously saved schedule file (*.nts) for viewing."
+msgstr ""
+
+#: main_27.cpp:87
+msgid "Save cross table"
+msgstr ""
+
+#: main_27.cpp:88
+msgid "Save the current cross table results to a file (*.xtb)"
+msgstr ""
+
+#: main_27.cpp:90
+msgid "Load cross table"
+msgstr ""
+
+#: main_27.cpp:91
+msgid "Load a previously saved cross table file (*.xtb) for viewing."
+msgstr ""
+
+#: main_27.cpp:93
+msgid "Save part tournament"
+msgstr ""
+
+#: main_27.cpp:94
+msgid "Save the current tournament in progress and state checkpoints."
+msgstr ""
+
+#: main_27.cpp:96
+msgid "Resume tournament"
+msgstr ""
+
+#: main_27.cpp:97
+msgid "Resume an unfinished tournament from a saved schedule file (*.nts)"
+msgstr ""
+
+#: main_27.cpp:101
+msgid "Engine shootout options"
+msgstr ""
+
+#: main_27.cpp:102
+msgid "Resign in engine shootout"
+msgstr ""
+
+#: main_27.cpp:103 main_27.cpp:106
+msgid "Confirm in shootout"
+msgstr ""
+
+#: main_27.cpp:104 main_27.cpp:110
+msgid "Show notification in engine matches"
+msgstr ""
+
+#: main_27.cpp:107
+msgid "Check if you want to be prompted to confirm"
+msgstr ""
+
+#: main_27.cpp:111
+msgid "Check to show a transient notification box"
+msgstr ""
+
+#: main_27.cpp:114
+msgid "Engine tournaments which are only partially completed,"
+msgstr ""
+
+#: main_27.cpp:115
+msgid "can be saved and continued later, if desired, using *.nts files."
+msgstr ""
+
+#: main_27.cpp:116
+msgid "This feature is useful for running large tournaments,"
+msgstr ""
+
+#: main_27.cpp:117
+msgid "that would take too much time to complete in one go."
+msgstr ""
+
+#: main_27.cpp:119
+msgid "Previous tournaments"
+msgstr ""
